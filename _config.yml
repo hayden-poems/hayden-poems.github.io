@@ -1,17 +1,17 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Ed.
+title:               Poems by Hayden
 tagline:             'a jekyll theme for minimal editions'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+url:                 'http://hayden-poems.github.io'
+baseurl:             ''
 
 # About/contact
 author:
-  name:              Alex Gil
+  name:              Hayden Strawbridge
   url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  email:             
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
