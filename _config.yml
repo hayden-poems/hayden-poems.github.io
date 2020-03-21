@@ -1,8 +1,8 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Poems by Hayden
-tagline:             'a jekyll theme for minimal editions'
+title:               Poems
+tagline:             'by Hayden Strawbridge'
 description:         'Some poems by Hayden Strawbridge.'
 url:                 'http://hayden-poems.github.io'
 baseurl:             ''
