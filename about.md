@@ -11,7 +11,7 @@ Here I have collected together some links to other poets  that I admire and to p
 - [Kate Tempest](https://www.katetempest.co.uk)
 - [Sean Lionadh](https://seanlionadh.com)
 - [Joanna Hoffman](https://joannahoffman.wordpress.com)
-- [Paul Muldoon](https://www.paulmuldoonpoetry.com):
+- [Paul Muldoon](https://www.paulmuldoonpoetry.com)
 - [Simon Armitage](https://www.simonarmitage.com)
 - [Moniza Alvi](https://www.moniza.co.uk) 
 - [Benjamin Zephaniah](https://benjaminzephaniah.com)
