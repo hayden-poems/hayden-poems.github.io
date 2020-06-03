@@ -4,7 +4,7 @@ title: No more novelty
 ---
 - The aged traveller gave out a forlorn sigh
 - Looked up at the over familiar sky.
-- Then uttered in a wise an almost Clemintine voice
+- Then uttered in a wise an almost clandestine voice
 - I never stop I constantly move from old to new.
 picking up things like a current 
 - From comfort to the unknown
