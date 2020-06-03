@@ -8,11 +8,11 @@ Some countries blindly pile prestige upon prestige
 
 * Forgetting or purposely overlooking what the country was built upon
 
-**POWER FROM FEAR
+* POWER FROM FEAR
 
-**STRENGTH FROM DIVISION
+* STRENGTH FROM DIVISION
 
-**PRIDE FROM BIGOTRY
+* PRIDE FROM BIGOTRY
 
  * The very fabric that created these countries is corrupt
 
