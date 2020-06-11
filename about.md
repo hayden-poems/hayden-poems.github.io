@@ -17,6 +17,8 @@ Here I have collected together some links to other poets  that I admire and to p
 - [Benjamin Zephaniah](https://benjaminzephaniah.com)
 - [ Brian Patten](http://www.brianpatten.co.uk)
 - [Akala](http://www.akala.moonfruit.com)
+- [George the Poet](https://www.georgethepoet.com/)
+- [Roger Robinson](https://rogerrobinsononline.com/)
 
 
 
@@ -25,3 +27,5 @@ Here I have collected together some links to other poets  that I admire and to p
 - [Poetry Foundation](https://www.poetryfoundation.org)
 - [Poetry Society](https://poetrysociety.org.uk)
 - [Famous English Poets and Poems](http://famouspoetsandpoems.com/country/England/English_poets.html)
+- [Magma Poetry](https://magmapoetry.com/)
+
