@@ -5,7 +5,7 @@ author: Hayden Strawbridge
 ---
 
 - Footsteps that used to soar 
-- Now broken an faded by the front door
+- Now broken and faded by the front door
 - The door handle wouldn't turn
 - All the excitement and belief was trapped and about to burn
 - I used to try but these days I just cry
