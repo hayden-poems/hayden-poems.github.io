@@ -4,6 +4,7 @@ title: Words = Hope
 Hope= Power
 author: Hayden Strawbridge
 ---
+-
 - It is time to speak up
 - This time as one
 - Unite for the rebirth of kind humanity
