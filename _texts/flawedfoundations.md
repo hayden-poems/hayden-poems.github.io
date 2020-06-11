@@ -18,4 +18,4 @@ Some countries blindly pile prestige upon prestige
 
 * The values that thinly hide the inequality and hatred crumble under moral scrutiny
 
-* The demise if the flawed foundatiions a victory for HUMANITY
+* The demise if the flawed foundations a victory for HUMANITY
