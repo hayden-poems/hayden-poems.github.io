@@ -1,7 +1,6 @@
 ---
 layout: poem
-title: Words = Hope 
-Hope= Power
+title: Words = Hope Hope= Power
 author: Hayden Strawbridge
 ---
 -
