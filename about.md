@@ -19,6 +19,11 @@ Here I have collected together some links to other poets  that I admire and to p
 - [Akala](http://www.akala.moonfruit.com)
 - [George the Poet](https://www.georgethepoet.com/)
 - [Roger Robinson](https://rogerrobinsononline.com/)
+- [Alex Asher](https://spokenlabel.bandcamp.com/album/alex-asher-spoken-label-march-2019)
+- [Polly Bull](https://pollybull.org/)
+-[Manny the Poet](http://emmanuelcarriere17.wixsite.com) 
+- [Joseph Fasano](http://josephfasano.net/)
+- 
 
 
 
@@ -28,4 +33,6 @@ Here I have collected together some links to other poets  that I admire and to p
 - [Poetry Society](https://poetrysociety.org.uk)
 - [Famous English Poets and Poems](http://famouspoetsandpoems.com/country/England/English_poets.html)
 - [Magma Poetry](https://magmapoetry.com/)
+- [Poetry London](https://poetrylondon.co.uk/) 
+
 
